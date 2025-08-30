@@ -3,5 +3,10 @@ I made Chess CMD in python to refresh my knowledge with Python's data structures
 I also included some videos in my fb, feel free to watch my works :)
 
 Here is the fb video link: https://www.facebook.com/share/v/15vUpnpj85/
-### Tech Stack
+## Tech Stack
+- (Python, loops, dictionary, lists)
+## How to Run
+## Key Learnings
+## Author
+
 
