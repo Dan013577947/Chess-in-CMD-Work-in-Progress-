@@ -1,7 +1,7 @@
 # Chess in CMD
 ## Overview
 I made Chess CMD in python to refresh my knowledge with Python's data structures and algorithms which made possible with the usage of dictionaries and lists.  The project isn't finished yet but I already implemented player's Rook and Pawn movements with lots of fixed errors. I included the errors I fixed and algorithms I implemented in my fb,
-I also included some videos in my fb and one demo video in youtube, feel free to watch my works :)
+I also included some videos in my Facebook and one demo video in my Youtube Channel, feel free to watch my works :)
 ## Video Link
 - **Facebook**: [Watch on FB](https://www.facebook.com/share/v/15vUpnpj85/)
 - **Youtube**: [Watch on YT](https://youtu.be/hBMgqCd68z8)
