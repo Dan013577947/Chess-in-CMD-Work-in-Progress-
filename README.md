@@ -6,7 +6,7 @@ I also included some videos in my fb and one demo video in youtube, feel free to
 - **Facebook**: [Watch on FB](https://www.facebook.com/share/v/15vUpnpj85/)
 - **Youtube**: [Watch on YT](https://youtu.be/hBMgqCd68z8)
 ## Tech Stack
-- **Python**(loops, dictionary, lists)
+- **Python** (loops, dictionary, lists)
 ## How to Run (Step by Step Process)
 1. Click the green Code Button, select Codespace then select "+" icon
 2. Wait for the loading then select Chess.py
