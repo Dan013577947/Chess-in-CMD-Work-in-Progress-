@@ -21,11 +21,11 @@ wPieces = {
 }
 #this is the linked squares of each pieces in the board, continuously updating each move
 chessPiecesLocationsWithNotations = {'a8': 'WRa8', 'b8': 'WNb8', 'c8': 'WBc8', 'd8': 'WQd8','e8': 'WKe8', 'f8': 'WBf8', 'g8': 'WNg8', 'h8': 'WRh8',
-     'a7': '', 'b7': '', 'c7': 'WPc7', 'd7': 'WPd7', 'e7': 'WPe7', 'f7': 'WPf7', 'g7': 'WPg7', 'h7': 'WPh7',
+     'a7': 'WPa7', 'b7': 'WPb7', 'c7': 'WPc7', 'd7': 'WPd7', 'e7': 'WPe7', 'f7': 'WPf7', 'g7': 'WPg7', 'h7': 'WPh7',
      'a6': '', 'b6': '', 'c6': '', 'd6': '', 'e6': '', 'f6': '', 'g6': '', 'h6': '',
      'a5': '', 'b5': '', 'c5': '', 'd5': '', 'e5': '', 'f5': '', 'g5': '', 'h5': '',
-     'a4': '', 'b4': '', 'c4': 'WPb7', 'd4': '', 'e4': '', 'f4': '', 'g4': '', 'h4': '',
-     'a3': 'WPa7', 'b3': '', 'c3': '', 'd3': '', 'e3': '', 'f3': '', 'g3': '', 'h3': '',
+     'a4': '', 'b4': '', 'c4': '', 'd4': '', 'e4': '', 'f4': '', 'g4': '', 'h4': '',
+     'a3': '', 'b3': '', 'c3': '', 'd3': '', 'e3': '', 'f3': '', 'g3': '', 'h3': '',
      'a2': 'BPa2', 'b2': 'BPb2', 'c2': 'BPc2', 'd2': 'BPd2', 'e2': 'BPe2', 'f2': 'BPf2', 'g2': 'BPg2', 'h2': 'BPh2',
      'a1': 'BRa1', 'b1': 'BNb1', 'c1': 'BBc1', 'd1': 'BQd1', 'e1': 'BKe1', 'f1': 'BBf1', 'g1': 'BNg1', 'h1': 'BRh2'}
 #this is used to save the old chessPiecesLocationsWithNotations(before the move was applied)
@@ -414,6 +414,7 @@ while True:
     
     
    
+
 
 
 
