@@ -403,7 +403,7 @@ def boardMovements(move):
                    
                     
     
-    print(allPossibleMovesOfEachWhitePieces)
+    #print(allPossibleMovesOfEachWhitePieces)
 while True:			
     boardMovements(chessPiecesLocationsWithNotationsFunction())
     
@@ -414,6 +414,7 @@ while True:
     
     
    
+
 
 
 
