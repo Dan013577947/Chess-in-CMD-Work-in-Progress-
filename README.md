@@ -4,7 +4,7 @@ I also included some videos in my fb, feel free to watch my works :)
 
 Here is the fb video link: https://www.facebook.com/share/v/15vUpnpj85/
 ## Tech Stack
-- [Python](loops, dictionary, lists)
+- **Python**(loops, dictionary, lists)
 ## How to Run
 ## Key Learnings
 ## Author
