@@ -17,7 +17,7 @@ I also included some videos in my fb and one demo video in youtube, feel free to
 - Data Structures and Algorithm
 - Strengthened problem solving and logical thinking
 ## Author
-###Danilo E. Alvaro Jr.
+### Danilo E. Alvaro Jr.
 - [LinkedIn](https://www.linkedin.com/in/danilo-alvaro-16b17534b/)
 - [Github](https://github.com/Dan013577947)
 
